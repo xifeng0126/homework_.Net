@@ -1,0 +1,15 @@
+E:\Code\homework_1a\homework_1a\bin\Debug\net6.0\homework_1a.exe
+E:\Code\homework_1a\homework_1a\bin\Debug\net6.0\homework_1a.deps.json
+E:\Code\homework_1a\homework_1a\bin\Debug\net6.0\homework_1a.runtimeconfig.json
+E:\Code\homework_1a\homework_1a\bin\Debug\net6.0\homework_1a.dll
+E:\Code\homework_1a\homework_1a\bin\Debug\net6.0\homework_1a.pdb
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.csproj.AssemblyReference.cache
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.AssemblyInfoInputs.cache
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.AssemblyInfo.cs
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.csproj.CoreCompileInputs.cache
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.dll
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\refint\homework_1a.dll
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.pdb
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\homework_1a.genruntimeconfig.cache
+E:\Code\homework_1a\homework_1a\obj\Debug\net6.0\ref\homework_1a.dll
