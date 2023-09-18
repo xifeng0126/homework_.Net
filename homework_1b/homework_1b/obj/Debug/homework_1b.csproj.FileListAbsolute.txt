@@ -9,3 +9,14 @@ E:\Code\homework_1b\homework_1b\obj\Debug\homework_1b.csproj.CoreCompileInputs.c
 E:\Code\homework_1b\homework_1b\obj\Debug\homework_1b.exe
 E:\Code\homework_1b\homework_1b\obj\Debug\homework_1b.pdb
 E:\Code\homework_1b\homework_1b\obj\Debug\homework_1b.Form1.resources
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\bin\Debug\homework_1b.exe.config
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\bin\Debug\homework_1b.exe
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\bin\Debug\homework_1b.pdb
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.csproj.AssemblyReference.cache
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.csproj.SuggestedBindingRedirects.cache
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.Form1.resources
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.Properties.Resources.resources
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.csproj.GenerateResource.cache
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.csproj.CoreCompileInputs.cache
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.exe
+E:\Code\.NET\homework_.Net\homework_1b\homework_1b\obj\Debug\homework_1b.pdb

@@ -48,8 +48,11 @@ namespace homework_1b
 
         private void startButton_Click(object sender, EventArgs e)
         {
-            countdown = 30;
+            countdown = 30;//初始化倒计时、以及得分
+            timeleft = 10;
+            score = 0;
             timer.Start();
+            startButton.Text = "重新开始";
             GenerateQuestion();
         }
 

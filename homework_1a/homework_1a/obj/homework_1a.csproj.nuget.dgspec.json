@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\homework_1a\\homework_1a\\homework_1a.csproj": {}
+    "E:\\Code\\.NET\\homework_.Net\\homework_1a\\homework_1a\\homework_1a.csproj": {}
   },
   "projects": {
-    "E:\\Code\\homework_1a\\homework_1a\\homework_1a.csproj": {
+    "E:\\Code\\.NET\\homework_.Net\\homework_1a\\homework_1a\\homework_1a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\homework_1a\\homework_1a\\homework_1a.csproj",
+        "projectUniqueName": "E:\\Code\\.NET\\homework_.Net\\homework_1a\\homework_1a\\homework_1a.csproj",
         "projectName": "homework_1a",
-        "projectPath": "E:\\Code\\homework_1a\\homework_1a\\homework_1a.csproj",
+        "projectPath": "E:\\Code\\.NET\\homework_.Net\\homework_1a\\homework_1a\\homework_1a.csproj",
         "packagesPath": "C:\\Users\\Xifeng\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\homework_1a\\homework_1a\\obj\\",
+        "outputPath": "E:\\Code\\.NET\\homework_.Net\\homework_1a\\homework_1a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
